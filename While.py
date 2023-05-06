@@ -1,4 +1,4 @@
-'''No exemplo a seguir, iremos imprimir uma variável enquanto o valor dela for menor ou igual a 100:'''
+'''Neste exemplo, iremos imprimir uma variável enquanto o valor dela for menor ou igual a 100:'''
 
 valor = 1
 
