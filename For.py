@@ -1,6 +1,6 @@
 '''No exemplo iremos percorrer uma lista de chamada de uma determinada escola e contar quantos alunos estão presentes na aula'''
 
-alunos = ['+55 61 8454-6713 'Alexandre', 'ALICE', 'Timoteo', 'Helena', 'tiago', 'SOLANGE']
+alunos = ['Alexandre', 'ALICE', 'Timoteo', 'Helena', 'tiago', 'SOLANGE']
 
 alunos_presentes = 0
 
