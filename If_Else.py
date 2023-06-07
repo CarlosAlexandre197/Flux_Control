@@ -1,4 +1,4 @@
-'''Ao ler a idade de um usuário será impresso na tela se ele é maior de idade ou não!'''
+'''Ao ler a idade de um usuário será impresso na tela se ele é maior ou menor de idade!'''
 
 idade = int(input('Qual é a idade do usuário? '))
 
